@@ -6,7 +6,7 @@ import SecondPage from "./Components/SecondPage.jsx";
 import ThirdPage from "./Components/ThirdPage.jsx";
 import FinalPage from "./Components/FinalPage.jsx";
 import Congratulations from "./Components/Congratulations.jsx";
-import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
