@@ -22,7 +22,7 @@ export default function FirstPage() {
                 <div className="card">
                     <div className="card-body">
                         <h1>Final Part:</h1>
-                        <p className="lead">Sweet dreams!</p>
+                        <p className="lead">Movie night!</p>
                         <p>Behind the doors that unlock the secret to a perfect movie, your gift hides in a cozy nest.</p>
                         <form onSubmit={(e) => {
                             setStatusMessage('');
