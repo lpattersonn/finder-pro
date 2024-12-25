@@ -22,8 +22,8 @@ export default function FirstPage() {
                 <div className="card">
                     <div className="card-body">
                         <h1>Part 2:</h1>
-                        <p className="lead">The <strong>sun</strong> or the <strong>moon</strong>!</p>
-                        <p>Nestled behind the tree, something magical awaits, but I prefer the sun.</p>
+                        <p className="lead"><strong>Petals</strong> or no <strong>petals</strong>!</p>
+                        <p>Where petals bloom and roots are deep, lift the pot for a secret to keep.</p>
                         <form onSubmit={(e) => {
                             setStatusMessage('');
                             handleSubmit(e)}}>
