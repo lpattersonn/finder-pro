@@ -23,7 +23,7 @@ export default function FirstPage() {
                     <div className="card-body">
                         <h1>Part 3:</h1>
                         <p className="lead">Weat or Dry!</p>
-                        <p>My noisy counterpart does not know when to quit. I, on the other hand, will keep you soaked and coming back for more!</p>
+                        <p>Where dishes get a clean start, search for the next part.</p>
                         <form onSubmit={(e) => {
                             setStatusMessage('');
                             handleSubmit(e)}}>
