@@ -22,8 +22,8 @@ export default function FirstPage() {
                 <div className="card">
                     <div className="card-body">
                         <h1>Final Part:</h1>
-                        <p className="lead">Dreams!</p>
-                        <p>Positioned behind where you lay your head, the final peice of the puzzle awaits.</p>
+                        <p className="lead">Sweet dreams!</p>
+                        <p>Behind the doors that unlock the secret to a perfect movie, your gift hides in a cozy nest.</p>
                         <form onSubmit={(e) => {
                             setStatusMessage('');
                             handleSubmit(e)}}>
