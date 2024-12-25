@@ -10,6 +10,7 @@ export default function Home() {
                 <Link to="/first-page"><button class="btn btn-primary btn-lg" type="button">Start!</button></Link>
                 </div>
             </div>
+            <div class="mt-5">This app was made by:<a href="https://leshanpatterson.com/" target="_blank">Leshan</a></div>
         </div>
     )
 };
